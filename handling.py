@@ -6,3 +6,4 @@ try:
 except:
     print("You are stupid")
 # i = 0/0
+# Random shit 
